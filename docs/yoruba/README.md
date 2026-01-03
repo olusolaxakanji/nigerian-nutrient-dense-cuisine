@@ -1,7 +1,6 @@
 # Nutrient-Rich Yoruba Dishes (Nigeria)
 
 This repository documents **traditional Yoruba dishes** with a focus on **nutrient density, whole foods, and cultural accuracy**.  
-The structure follows **GitHub Flavored Markdown (GFM)** for clarity, collaboration, and long-term maintainability.
 
 ---
 
